@@ -28,6 +28,12 @@ working:
 
 salt-tutorial will be using Ubuntu 12.04 LTS for the base boxes.
 
+ATTENTION: Known Issues
+=======================
+
+If you're running Vagrant 1.3.4 there is a [known bug](https://github.com/mitchellh/vagrant/issues/2309)
+that will cause your "vagrant up" to fail. It is recommended to upgrade to 1.3.5.
+
 Usage
 =====
 
