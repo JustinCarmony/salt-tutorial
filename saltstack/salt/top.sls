@@ -1,4 +1,3 @@
 base:
     '*':
-        - helloworld
-        
+        - common
