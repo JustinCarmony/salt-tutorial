@@ -72,7 +72,7 @@ License
 salt-tutorial is provided under the terms of [The MIT
 License](http://www.opensource.org/licenses/MIT).
 
-Copyright &copy; 2012, [Justin Carmony](mailto:justin@justincarmony.com).
+Copyright &copy; 2013, [Justin Carmony](mailto:justin@justincarmony.com).
 
 Salt Sandbox is provided under the terms of [The MIT
 License](http://www.opensource.org/licenses/MIT).
