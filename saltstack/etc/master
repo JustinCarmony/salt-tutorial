@@ -1,0 +1,26 @@
+# This Master File has been stripped down to bare configuation for
+# brevity sake. Please see https://github.com/saltstack/salt/blob/v0.17.1/conf/master
+# for possible config options.
+
+
+##### Primary configuration settings #####
+##########################################
+timeout: 5
+
+#####      State System settings     #####
+##########################################
+state_output: mixed
+
+
+#####      File Server settings      #####
+##########################################
+file_roots:
+  base:
+    - /vagrant/saltstack/salt
+
+#####         Pillar settings        #####
+##########################################
+pillar_roots:
+  base:
+    - /vagrant/saltstack/pillar
+
